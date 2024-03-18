@@ -1,0 +1,40 @@
+Beetroot Academy
+QA Manual Course 
+Jan 2024 - March 2024
+Daniel Clapa
+Homework 03 for 29 Jan 2024, Lesson: Working with requirements
+
+Beet Seed  — get the basic skills down.
+1. Give short examples of requirements (3-5) for any item from your environment that would meet each of the following quality assessment criteria:
+Atomic
+Consistent
+Testable
+Traceable
+Item: desktop thermostat
+Desktop thermostat should 
+Display the current humidity level, in the room in which it is placed, as a percentage, as the largest size.
+Next to the percentage of the humidity level, a comfort level should be displayed as Emoji: Smily for comfort, Sad for discomfort, and neither smily nor sad for dry.
+The current temperature, should be displayed either in ℉ or in ℃, as the next font size after size the humidity level.
+A button in the back of the unit should switch between ℉ and ℃.
+Beet Sprout — dive deeper into practice.
+2. In your opinion, which of the requirements testing techniques guarantees the highest possible quality of the final result? Support your answer (3-5 sentences).
+I think the highest possible quality of a software product would be achieved by a formal technical review. This is simply because it would not only take the most amount of time, and be the most detailed, but also because it would be done by specialists in a structured, systematic manner. Such a review would be foundational and could include some or all of the other requirements testing techniques, especially the one of asking questions. Furthermore, this review process could be all-encompassing. This would ensure its efficiency in reaching a high quality result. 
+Mighty Beet: get an all-round topics coverage by completing level three of the home assignment:
+3. You are the founder of a startup planning to launch a mobile application for sharing cat photos. Come up with functional (5-7) and non-functional (also 5-7) requirements for the application.
+Functional requirements
+Log into the app, stay connected, and exit from the profile
+Request access to the mobile camera app, or
+Request access to the mobile’s photo storage app.
+Request access to the mobile’s Contacts app
+Be able to send a new picture or a selected photo to a friend from the Contacts of the mobile or a new friend in the contacts of the app
+Create contacts in the app
+View the cat photos 
+Non-functional requirements
+Performance:
+Upload a photo to send should not be slower than 1 second. 
+Receiving a photo should not be slower than 2 seconds.
+Security
+Secure the photos so that none of them can be access from the app outside the intended users, which are the sending/mobile-owner and the receiving owner.
+Ensure no outside entity, such as other app, can access a user’s profile information
+Quality attributes
+The app should store the cat photos in the app with sufficient fidelity.
